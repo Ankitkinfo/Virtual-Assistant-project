@@ -1,5 +1,7 @@
 # Virtual-Assistant-project
-NOVA - Natural Online Virtual Assistant
+👋 Hi, I’m Ankit! 💻 Passionate about "building scalable web applications" or "open-source contributions"
+
+**NOVA - Natural Online Virtual Assistant**
 The NOVA (Natural Online Virtual Assistant) project seeks to enhance user interaction by developing a browser-based virtual assistant that operates seamlessly via voice commands. This digital assistant is designed to address a wide range of user requests, including providing real-time information such as current weather, time, and assisting with web searches. The primary objective of the project is to create a more intuitive, efficient, and accessible assistant that simplifies daily tasks for users. The system leverages natural language processing (NLP) and speech recognition technologies to offer an interactive and user-friendly experience.
 
 **Introduction** 
