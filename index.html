@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NOVA - Virtual Assistant</title>
+    <link rel="shortcut icon" href="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/img-Rl0Gu9Hy5Ue5Ue5Ue5Ue5Ue5Ue5Ue.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>N O V A</h1>
+            <p>Natural Online Virtual Assistant</p>
+        </header>
+        <main>
+            <div class="assistant-avatar">
+                <div class="avatar-circle">
+                    <i class="fas fa-robot"></i>
+                </div>
+            </div>
+            <div class="message-area">
+                <p id="assistant-message">How may I help you today?</p>
+            </div>
+            <div class="input-area">
+                <button id="talk-btn" class="pulse">
+                    <i class="fas fa-microphone-alt"></i>
+                </button>
+                <p id="user-input">Click the microphone or press Ctrl+Space to speak</p>
+            </div>
+            <div class="additional-controls">
+                <button id="toggle-voice" class="control-btn">
+                    <i class="fas fa-volume-up"></i>
+                </button>
+                <button id="clear-chat" class="control-btn">
+                    <i class="fas fa-trash"></i>
+                </button>
+            </div>
+        </main>
+        <footer>
+            <p>Tip: Try asking about the Time, date, Open youtube or for a joke!</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
